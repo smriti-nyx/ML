@@ -1,43 +1,57 @@
-# Hey, I'm Sera 👋
+# ML-Tutorials 🧠
 
-ECE undergrad at NIT Jamshedpur building toward ML engineering — one project at a time.
-
----
-
-## 🔭 What I'm working on
-
-- Hands-on ML with scikit-learn — pipelines, preprocessing, feature engineering
-- Open source contributions via **GSSoC 2026** (2 PRs merged ✅)
-- Competitive programming in C++
+My end-to-end machine learning learning journey — hands-on notebooks covering data acquisition, preprocessing, feature engineering, and modelling, built while following the [Campus X ML course](https://www.youtube.com/@campusx-official).
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Structure
+
+\`\`\`
+ML-Tutorials/
+├── 01_data_acquisition/     # Fetching data via APIs and web scraping
+├── 02_eda/                  # Exploratory data analysis
+├── 03_feature_engineering/  # Datetime features, mixed variables, binning
+├── 04_preprocessing/        # Scaling, encoding, imputation, transformations
+├── 05_pipelines/            # sklearn Pipelines and ColumnTransformer
+├── 06_modelling/            # Regression, grid search, model evaluation
+├── data/                    # Raw CSV datasets
+└── models/                  # Saved model objects
+\`\`\`
+
+---
+
+## 🗂️ Topics Covered
+
+| # | Topic | Folder |
+|---|-------|--------|
+| 1 | Fetching data via API & web scraping | `01_data_acquisition/` |
+| 2 | EDA & pandas profiling | `02_eda/` |
+| 3 | Feature engineering (datetime, mixed vars, binning) | `03_feature_engineering/` |
+| 4 | Scaling, encoding, imputation, transformers | `04_preprocessing/` |
+| 5 | ML Pipelines & ColumnTransformer | `05_pipelines/` |
+| 6 | Linear Regression & Grid Search | `06_modelling/` |
+
+---
+
+## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 📌 Featured
+## 🚀 How to run
 
-- **[ML-Tutorials](https://github.com/smriti-nyx/ML-Tutorials)** — end-to-end ML notebooks: data acquisition → preprocessing → pipelines → modelling
-- **[C-CP](https://github.com/smriti-nyx/C-CP)** — C++ competitive programming practice
-- **[mini-projects](https://github.com/smriti-nyx/mini-projects)** — small Python builds
-
----
-
-## 📫 Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smriti-mishra-120235374)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smriticodedthis@gmail.com)
+\`\`\`bash
+git clone https://github.com/smriti-nyx/ML-Tutorials.git
+cd ML-Tutorials
+pip install -r requirements.txt
+jupyter notebook
+\`\`\`
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smriti-nyx&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smriti-nyx&theme=tokyonight&hide_border=true&layout=compact)
+*Part of my ML journey at NIT Jamshedpur · [LinkedIn](https://www.linkedin.com/in/smriti-mishra-120235374)*
