@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5abd68ca-5406-4906-b691-c5f4d253c199" name="Changes" comment="CSV" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;smriti-nyx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/smriti-nyx/ML-Tutorials.git&quot;,
+    &quot;accountId&quot;: &quot;3f112783-adc0-4fd8-b675-d9373649893d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3EXZWUUl4tdeWnadbCgKi1SkdjI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/06_modelling" />
+      <recent name="$PROJECT_DIR$/working with json" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ML" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-657d8234b839-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5abd68ca-5406-4906-b691-c5f4d253c199" name="Changes" comment="" />
+      <created>1780326907428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1780326907428</updated>
+    </task>
+    <task id="LOCAL-00001" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780332039533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780332039533</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780334125959</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1780334125959</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780388861361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1780388861361</updated>
+    </task>
+    <task id="LOCAL-00004" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780388880735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1780388880735</updated>
+    </task>
+    <task id="LOCAL-00005" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780424590334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1780424590334</updated>
+    </task>
+    <task id="LOCAL-00006" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780428383481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1780428383481</updated>
+    </task>
+    <task id="LOCAL-00007" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1780428454222</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1780428454222</updated>
+    </task>
+    <task id="LOCAL-00008" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781677007530</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1781677007530</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781678338310</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781678338310</updated>
+    </task>
+    <task id="LOCAL-00010" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781679804146</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781679804146</updated>
+    </task>
+    <task id="LOCAL-00011" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781679809021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1781679809021</updated>
+    </task>
+    <task id="LOCAL-00012" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781681344518</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1781681344518</updated>
+    </task>
+    <task id="LOCAL-00013" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781697528862</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1781697528862</updated>
+    </task>
+    <task id="LOCAL-00014" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781699942805</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1781699942805</updated>
+    </task>
+    <task id="LOCAL-00015" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781709468447</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1781709468447</updated>
+    </task>
+    <task id="LOCAL-00016" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781709847990</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1781709847990</updated>
+    </task>
+    <task id="LOCAL-00017" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781711545900</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1781711545900</updated>
+    </task>
+    <task id="LOCAL-00018" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781762829627</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1781762829627</updated>
+    </task>
+    <task id="LOCAL-00019" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781764737691</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1781764737691</updated>
+    </task>
+    <task id="LOCAL-00020" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781770037374</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1781770037374</updated>
+    </task>
+    <task id="LOCAL-00021" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781775060601</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1781775060601</updated>
+    </task>
+    <task id="LOCAL-00022" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781787483905</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1781787483905</updated>
+    </task>
+    <task id="LOCAL-00023" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781791900075</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1781791900075</updated>
+    </task>
+    <task id="LOCAL-00024" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781856051811</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1781856051811</updated>
+    </task>
+    <task id="LOCAL-00025" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781860015850</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1781860015850</updated>
+    </task>
+    <task id="LOCAL-00026" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781877464094</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1781877464094</updated>
+    </task>
+    <task id="LOCAL-00027" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781883571014</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1781883571014</updated>
+    </task>
+    <task id="LOCAL-00028" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781953219422</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1781953219422</updated>
+    </task>
+    <task id="LOCAL-00029" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781965079261</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1781965079261</updated>
+    </task>
+    <task id="LOCAL-00030" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1781988425803</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1781988425803</updated>
+    </task>
+    <task id="LOCAL-00031" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782044337473</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1782044337473</updated>
+    </task>
+    <task id="LOCAL-00032" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782046352441</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1782046352441</updated>
+    </task>
+    <task id="LOCAL-00033" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782203374720</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1782203374720</updated>
+    </task>
+    <task id="LOCAL-00034" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782204825582</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1782204825582</updated>
+    </task>
+    <task id="LOCAL-00035" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782296884692</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1782296884692</updated>
+    </task>
+    <task id="LOCAL-00036" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782300762787</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1782300762787</updated>
+    </task>
+    <task id="LOCAL-00037" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782311709525</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1782311709525</updated>
+    </task>
+    <task id="LOCAL-00038" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782376991095</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1782376991095</updated>
+    </task>
+    <task id="LOCAL-00039" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782378845543</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1782378845543</updated>
+    </task>
+    <task id="LOCAL-00040" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782455805081</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1782455805081</updated>
+    </task>
+    <task id="LOCAL-00041" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782457490885</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1782457490885</updated>
+    </task>
+    <task id="LOCAL-00042" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782467515399</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1782467515399</updated>
+    </task>
+    <task id="LOCAL-00043" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782478689321</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1782478689321</updated>
+    </task>
+    <task id="LOCAL-00044" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782553246978</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1782553246978</updated>
+    </task>
+    <task id="LOCAL-00045" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782575216167</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1782575216167</updated>
+    </task>
+    <task id="LOCAL-00046" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782582345814</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1782582345814</updated>
+    </task>
+    <task id="LOCAL-00047" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782592075628</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1782592075628</updated>
+    </task>
+    <task id="LOCAL-00048" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782645311601</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1782645311601</updated>
+    </task>
+    <task id="LOCAL-00049" summary="CSV">
+      <option name="closed" value="true" />
+      <created>1782818780626</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1782818780626</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CSV" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSV" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
