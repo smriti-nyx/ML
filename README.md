@@ -4,7 +4,7 @@ My end-to-end machine learning learning journey — hands-on notebooks covering 
 
 ---
 
-## 📂 Structure
+##  Structure
 
 \`\`\`
 ML-Tutorials/
@@ -20,7 +20,7 @@ ML-Tutorials/
 
 ---
 
-## 🗂️ Topics Covered
+##  Topics Covered
 
 | # | Topic | Folder |
 |---|-------|--------|
@@ -33,7 +33,7 @@ ML-Tutorials/
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -43,7 +43,7 @@ ML-Tutorials/
 
 ---
 
-## 🚀 How to run
+##  How to run
 
 \`\`\`bash
 git clone https://github.com/smriti-nyx/ML-Tutorials.git
