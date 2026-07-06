@@ -1,4 +1,4 @@
-# ML-Tutorials 🧠
+# ML-Tutorials 
 
 My end-to-end machine learning learning journey — hands-on notebooks covering data acquisition, preprocessing, feature engineering, and modelling, built while following the [Campus X ML course](https://www.youtube.com/@campusx-official).
 
