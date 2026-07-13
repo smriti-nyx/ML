@@ -1,0 +1,44 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (keep CSVs tracked, but ignore large/sensitive files)
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Models (if large — commit small ones explicitly)
+# models/   ← uncomment if your models/ folder gets large
+
+# Logs
+*.log
